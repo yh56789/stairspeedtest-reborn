@@ -1,6 +1,6 @@
 name: GitHub CI
 on: [push]
-
+  
 jobs:
   linux32_build:
     name: Linux x86 Build
